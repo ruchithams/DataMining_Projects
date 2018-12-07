@@ -11,6 +11,7 @@ The code was executed using Python3. Following libraries are used in the analysi
 4. sklearn
 
 Projet-Work:
+
  Section-1: Customer Segmentation
  
  Section-2: Dimensionality Reduction
