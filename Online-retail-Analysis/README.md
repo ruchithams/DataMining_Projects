@@ -11,10 +11,17 @@ The code was executed using Python3. Following libraries are used in the analysi
 4. sklearn
 
 Projet-Work:
+
  Section-1: Customer Segmentation
+ 
  Section-2: Dimensionality Reduction
+ 
  Section-3: Principal Component Analysis
+ 
  Section-4: Exploratory Analysis
+ 
  Section-5: Cluster analysis
+ 
  Section-6: Market basket analysis
+ 
  Section-7: Machine Learning Predictions
